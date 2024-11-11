@@ -15,3 +15,7 @@ https://github.com/Vex2cK/vsrs2
 
 
 https://huggingface.co/spaces/mteb/leaderboard
+
+
+
+https://github.com/Pretzandalf/Vseros_pamyatka
