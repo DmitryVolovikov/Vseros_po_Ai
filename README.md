@@ -4,7 +4,7 @@ https://www.kaggle.com/code/dmitryvolovikov/second-task
 
 https://www.kaggle.com/code/dmitryvolovikov/first-task
 
-
+https://www.kaggle.com/code/dmitryvolovikov/first-task-another-version
 
 
 https://github.com/Pretzandalf/Vseros_dataset
