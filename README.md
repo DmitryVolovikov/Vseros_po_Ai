@@ -19,3 +19,13 @@ https://huggingface.co/spaces/mteb/leaderboard
 
 
 https://github.com/Pretzandalf/Vseros_pamyatka
+
+Всякие LLM на всякий случай:
+
+https://trychatgpt.ru/
+
+
+https://www.perplexity.ai/
+
+
+https://www.blackbox.ai/ 
